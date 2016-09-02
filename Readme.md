@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент:  [Василий Базенко](https://up.htmlacademy.ru/htmlcss/14/user/109713).
+* Студент: [Василий Базенко](https://up.htmlacademy.ru/htmlcss/14/user/109713).
 
 ---
 
